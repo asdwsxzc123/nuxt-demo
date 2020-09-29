@@ -1,0 +1,57 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/layout",
+    "children": [
+      {
+        "name": "home",
+        "path": "",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/home",
+        "_name": "_0cd1d6eb"
+      },
+      {
+        "name": "login",
+        "path": "/login",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/login",
+        "_name": "_e4bd6246"
+      },
+      {
+        "name": "register",
+        "path": "/register",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/login",
+        "_name": "_e4bd6246"
+      },
+      {
+        "name": "profile",
+        "path": "/profile/:username",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/profile",
+        "_name": "_f8a047c6"
+      },
+      {
+        "name": "settings",
+        "path": "/settings",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/settings",
+        "_name": "_f8e88fa2"
+      },
+      {
+        "name": "editor",
+        "path": "/editor",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/editor",
+        "_name": "_19fcb079"
+      },
+      {
+        "name": "editor",
+        "path": "/editor/:slug",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/editor",
+        "_name": "_19fcb079"
+      },
+      {
+        "name": "article",
+        "path": "/article/:slug",
+        "component": "/Users/li/Desktop/git/fed/src/fed-e-task-03-03/code/nuxt-demo/pages/article",
+        "_name": "_6a7a1f6a"
+      }
+    ],
+    "_name": "_25cb8a36"
+  }
+]
